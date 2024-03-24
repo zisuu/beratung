@@ -3,7 +3,7 @@
     <title>Seelsorge Beratung</title>
     <link href="https://zisuu.github.io/beratung/feed.xml" rel="self" />
     <link href="https://zisuu.github.io/beratung" />
-    <updated>2024-03-24T12:12:17+01:00</updated>
+    <updated>2024-03-24T12:51:51+01:00</updated>
     <author>
         <name>selsorge-beratung</name>
     </author>
@@ -150,6 +150,28 @@
   <p>
     Informieren Sie sich ganz unverbindlich. Sollte ich Ihr Interesse geweckt haben oder sollten Fragen offen geblieben sein, rufen Sie mich an oder schreiben Sie mir eine E-Mail. Ich werde sobald als möglich antworten.
   </p>
+<div><form
+  action="https://formspree.io/f/xvoebjqp"
+  method="POST"
+>
+  <label>
+    Name:
+    <input type="name" name="name">
+  </label>
+  <label>
+    Email Adresse:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Telefon Nummer:
+    <input type="tel" name="telefon">
+  </label>
+  <label>
+    Nachricht:
+    <textarea type="text" name="nachricht"></textarea>
+  </label>
+  <button type="submit">Senden</button>
+</form></div>
 
     <blockquote class="blockquote">
       Den roten Faden des Lebens finden
