@@ -3,7 +3,7 @@
     <title>Seelsorge Beratung</title>
     <link href="https://zisuu.github.io/beratung/feed.xml" rel="self" />
     <link href="https://zisuu.github.io/beratung" />
-    <updated>2024-03-24T12:51:51+01:00</updated>
+    <updated>2024-03-24T12:59:25+01:00</updated>
     <author>
         <name>selsorge-beratung</name>
     </author>
@@ -150,28 +150,66 @@
   <p>
     Informieren Sie sich ganz unverbindlich. Sollte ich Ihr Interesse geweckt haben oder sollten Fragen offen geblieben sein, rufen Sie mich an oder schreiben Sie mir eine E-Mail. Ich werde sobald als möglich antworten.
   </p>
-<div><form
-  action="https://formspree.io/f/xvoebjqp"
-  method="POST"
->
-  <label>
-    Name:
-    <input type="name" name="name">
-  </label>
-  <label>
-    Email Adresse:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Telefon Nummer:
-    <input type="tel" name="telefon">
-  </label>
-  <label>
-    Nachricht:
-    <textarea type="text" name="nachricht"></textarea>
-  </label>
-  <button type="submit">Senden</button>
-</form></div>
+<div><style>
+  /* Style for the form container */
+  .contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Style for labels */
+  .contact-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  /* Style for inputs and textarea */
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form input[type="tel"],
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+
+  /* Style for submit button */
+  .contact-form button[type="submit"] {
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+</style>
+
+<div class="contact-form">
+  <form action="xx" method="POST">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="email">Email Adresse:</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="telefon">Telefon Nummer:</label>
+    <input type="tel" id="telefon" name="telefon">
+
+    <label for="nachricht">Nachricht:</label>
+    <textarea id="nachricht" name="nachricht" rows="4" required></textarea>
+
+    <button type="submit">Senden</button>
+  </form>
+</div>
+</div>
 
     <blockquote class="blockquote">
       Den roten Faden des Lebens finden
