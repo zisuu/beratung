@@ -3,12 +3,35 @@
     <title>Seelsorge Beratung</title>
     <link href="https://zisuu.github.io/beratung/feed.xml" rel="self" />
     <link href="https://zisuu.github.io/beratung" />
-    <updated>2024-03-25T14:39:00+01:00</updated>
+    <updated>2024-03-25T14:48:33+01:00</updated>
     <author>
         <name>selsorge-beratung</name>
     </author>
     <id>https://zisuu.github.io/beratung</id>
 
+    <entry>
+        <title>Danke</title>
+        <author>
+            <name>selsorge-beratung</name>
+        </author>
+        <link href="https://zisuu.github.io/beratung/danke.html"/>
+        <id>https://zisuu.github.io/beratung/danke.html</id>
+
+        <updated>2024-03-25T14:46:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Ihre Nachricht wurde erfolgreich versendet.&nbsp;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p class="msg msg--success">
+    <strong>Ihre Nachricht wurde erfolgreich versendet.&nbsp;</strong>
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Herzlich Willkommen!</title>
         <author>
@@ -205,7 +228,7 @@
 
     <label for="nachricht">Nachricht:</label>
     <textarea id="nachricht" name="nachricht" rows="4" required></textarea>
-
+    <input type="hidden" name="_next" value="https://zisuu.github.io/beratung/danke"
     <button type="submit">Senden</button>
   </form>
 </div>
