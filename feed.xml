@@ -3,7 +3,7 @@
     <title>Seelsorge Beratung</title>
     <link href="https://zisuu.github.io/beratung/feed.xml" rel="self" />
     <link href="https://zisuu.github.io/beratung" />
-    <updated>2024-03-25T14:50:55+01:00</updated>
+    <updated>2024-03-25T16:06:57+01:00</updated>
     <author>
         <name>selsorge-beratung</name>
     </author>
@@ -228,7 +228,7 @@
 
     <label for="nachricht">Nachricht:</label>
     <textarea id="nachricht" name="nachricht" rows="4" required></textarea>
-    <input type="hidden" name="_next" value="https://zisuu.github.io/beratung/danke" />
+    <input name="subject" type="hidden" value="Neue Kontakt-Formular Nachricht von Seelsorge-Beratung.ch" />
     <button type="submit">Senden</button>
   </form>
 </div>
