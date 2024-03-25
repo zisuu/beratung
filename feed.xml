@@ -3,7 +3,7 @@
     <title>Seelsorge Beratung</title>
     <link href="https://zisuu.github.io/beratung/feed.xml" rel="self" />
     <link href="https://zisuu.github.io/beratung" />
-    <updated>2024-03-24T12:59:25+01:00</updated>
+    <updated>2024-03-25T14:39:00+01:00</updated>
     <author>
         <name>selsorge-beratung</name>
     </author>
@@ -193,7 +193,7 @@
 </style>
 
 <div class="contact-form">
-  <form action="xx" method="POST">
+<form action="https://formspree.io/f/xvoebjqp" method="POST">
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required>
 
