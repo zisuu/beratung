@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://zisuu.github.io/beratung/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.seelsorge-beratung.ch/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://zisuu.github.io/beratung/</loc>
+<loc>https://www.seelsorge-beratung.ch/</loc>
 </url>
 <url>
-<loc>https://zisuu.github.io/beratung/danke.html</loc>
+<loc>https://www.seelsorge-beratung.ch/danke.html</loc>
 <lastmod>2024-03-25T14:48:01+01:00</lastmod>
 </url>
 <url>
-<loc>https://zisuu.github.io/beratung/herzlich-willkommen.html</loc>
+<loc>https://www.seelsorge-beratung.ch/herzlich-willkommen.html</loc>
 <lastmod>2024-03-25T16:06:57+01:00</lastmod>
 <image:image>
-<image:loc>https://zisuu.github.io/beratung/media/posts/5/bg.jpg</image:loc>
+<image:loc>https://www.seelsorge-beratung.ch/media/posts/5/bg.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://zisuu.github.io/beratung/media/posts/5/Screenshot-2023-09-17-at-13.56.15.png</image:loc>
+<image:loc>https://www.seelsorge-beratung.ch/media/posts/5/Screenshot-2023-09-17-at-13.56.15.png</image:loc>
 <image:title><![CDATA[Identität]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://zisuu.github.io/beratung/media/posts/5/Screenshot-2023-09-17-at-13.56.22.png</image:loc>
+<image:loc>https://www.seelsorge-beratung.ch/media/posts/5/Screenshot-2023-09-17-at-13.56.22.png</image:loc>
 <image:title><![CDATA[Beziehungen]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://zisuu.github.io/beratung/media/posts/5/Screenshot-2023-09-17-at-13.56.30.png</image:loc>
+<image:loc>https://www.seelsorge-beratung.ch/media/posts/5/Screenshot-2023-09-17-at-13.56.30.png</image:loc>
 <image:title><![CDATA[Angst & Trauma]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://zisuu.github.io/beratung/media/posts/5/Screenshot-2023-09-17-at-13.56.38.png</image:loc>
+<image:loc>https://www.seelsorge-beratung.ch/media/posts/5/Screenshot-2023-09-17-at-13.56.38.png</image:loc>
 <image:title><![CDATA[Psychosomatik]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://zisuu.github.io/beratung/media/posts/5/Screenshot-2023-09-17-at-13.56.48.png</image:loc>
+<image:loc>https://www.seelsorge-beratung.ch/media/posts/5/Screenshot-2023-09-17-at-13.56.48.png</image:loc>
 <image:title><![CDATA[Gebetsseelsorge]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://zisuu.github.io/beratung/media/posts/5/profile_foto.jpg</image:loc>
+<image:loc>https://www.seelsorge-beratung.ch/media/posts/5/profile_foto.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

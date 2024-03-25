@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Seelsorge Beratung</title>
-    <link href="https://zisuu.github.io/beratung/feed.xml" rel="self" />
-    <link href="https://zisuu.github.io/beratung" />
+    <link href="https://www.seelsorge-beratung.ch/feed.xml" rel="self" />
+    <link href="https://www.seelsorge-beratung.ch" />
     <updated>2024-03-25T16:06:57+01:00</updated>
     <author>
         <name>selsorge-beratung</name>
     </author>
-    <id>https://zisuu.github.io/beratung</id>
+    <id>https://www.seelsorge-beratung.ch</id>
 
     <entry>
         <title>Danke</title>
         <author>
             <name>selsorge-beratung</name>
         </author>
-        <link href="https://zisuu.github.io/beratung/danke.html"/>
-        <id>https://zisuu.github.io/beratung/danke.html</id>
+        <link href="https://www.seelsorge-beratung.ch/danke.html"/>
+        <id>https://www.seelsorge-beratung.ch/danke.html</id>
 
         <updated>2024-03-25T14:46:05+01:00</updated>
             <summary>
@@ -37,20 +37,20 @@
         <author>
             <name>selsorge-beratung</name>
         </author>
-        <link href="https://zisuu.github.io/beratung/herzlich-willkommen.html"/>
-        <id>https://zisuu.github.io/beratung/herzlich-willkommen.html</id>
-        <media:content url="https://zisuu.github.io/beratung/media/posts/5/bg.jpg" medium="image" />
+        <link href="https://www.seelsorge-beratung.ch/herzlich-willkommen.html"/>
+        <id>https://www.seelsorge-beratung.ch/herzlich-willkommen.html</id>
+        <media:content url="https://www.seelsorge-beratung.ch/media/posts/5/bg.jpg" medium="image" />
 
         <updated>2023-12-27T17:03:48+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://zisuu.github.io/beratung/media/posts/5/bg.jpg" alt="" />
+                        <img src="https://www.seelsorge-beratung.ch/media/posts/5/bg.jpg" alt="" />
                     Praxis für Individualpsychologische Beratung und Seelsorge Meine Beratung basiert auf Grundlage eines christlichen Menschenbildes. Ich verstehe meine Arbeit als Hilfe zur Selbsthilfe. Möchten Sie Ihr Potential entdecken und sich voll entfalten? Lebenstüchtiger werden? Erleben Sie gerade die Tiefen des Lebens und suchen einen Ausweg? Ja!?&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://zisuu.github.io/beratung/media/posts/5/bg.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.seelsorge-beratung.ch/media/posts/5/bg.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="praxis-fuer-individualpsychologische-beratung-und-seelsorge">
       Praxis für Individualpsychologische Beratung und Seelsorge
@@ -78,7 +78,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zisuu.github.io/beratung/media/posts/5/Screenshot-2023-09-17-at-13.56.15.png" height="274" width="274" alt="Identität"  sizes="100vw" srcset="https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-xs.png 300w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-sm.png 480w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-md.png 768w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-lg.png 1024w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-xl.png 1360w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-2xl.png 1600w">
+      <img loading="lazy" src="https://www.seelsorge-beratung.ch/media/posts/5/Screenshot-2023-09-17-at-13.56.15.png" height="274" width="274" alt="Identität"  sizes="100vw" srcset="https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-xs.png 300w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-sm.png 480w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-md.png 768w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-lg.png 1024w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-xl.png 1360w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.15-2xl.png 1600w">
       <figcaption>Identität</figcaption>
     </figure>
 
@@ -87,7 +87,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zisuu.github.io/beratung/media/posts/5/Screenshot-2023-09-17-at-13.56.22.png" height="274" width="274" alt="Beziehungen"  sizes="100vw" srcset="https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-xs.png 300w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-sm.png 480w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-md.png 768w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-lg.png 1024w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-xl.png 1360w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-2xl.png 1600w">
+      <img loading="lazy" src="https://www.seelsorge-beratung.ch/media/posts/5/Screenshot-2023-09-17-at-13.56.22.png" height="274" width="274" alt="Beziehungen"  sizes="100vw" srcset="https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-xs.png 300w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-sm.png 480w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-md.png 768w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-lg.png 1024w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-xl.png 1360w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.22-2xl.png 1600w">
       <figcaption>Beziehungen</figcaption>
     </figure>
 
@@ -96,7 +96,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zisuu.github.io/beratung/media/posts/5/Screenshot-2023-09-17-at-13.56.30.png" height="274" width="274" alt="Angst & Trauma"  sizes="100vw" srcset="https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-xs.png 300w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-sm.png 480w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-md.png 768w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-lg.png 1024w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-xl.png 1360w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-2xl.png 1600w">
+      <img loading="lazy" src="https://www.seelsorge-beratung.ch/media/posts/5/Screenshot-2023-09-17-at-13.56.30.png" height="274" width="274" alt="Angst & Trauma"  sizes="100vw" srcset="https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-xs.png 300w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-sm.png 480w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-md.png 768w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-lg.png 1024w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-xl.png 1360w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.30-2xl.png 1600w">
       <figcaption>Angst & Trauma</figcaption>
     </figure>
 
@@ -105,7 +105,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zisuu.github.io/beratung/media/posts/5/Screenshot-2023-09-17-at-13.56.38.png" height="274" width="274" alt="Psychosomatik"  sizes="100vw" srcset="https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-xs.png 300w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-sm.png 480w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-md.png 768w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-lg.png 1024w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-xl.png 1360w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-2xl.png 1600w">
+      <img loading="lazy" src="https://www.seelsorge-beratung.ch/media/posts/5/Screenshot-2023-09-17-at-13.56.38.png" height="274" width="274" alt="Psychosomatik"  sizes="100vw" srcset="https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-xs.png 300w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-sm.png 480w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-md.png 768w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-lg.png 1024w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-xl.png 1360w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.38-2xl.png 1600w">
       <figcaption>Psychosomatik</figcaption>
     </figure>
 
@@ -114,7 +114,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zisuu.github.io/beratung/media/posts/5/Screenshot-2023-09-17-at-13.56.48.png" height="274" width="274" alt="Gebetsseelsorge"  sizes="100vw" srcset="https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-xs.png 300w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-sm.png 480w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-md.png 768w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-lg.png 1024w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-xl.png 1360w ,https://zisuu.github.io/beratung/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-2xl.png 1600w">
+      <img loading="lazy" src="https://www.seelsorge-beratung.ch/media/posts/5/Screenshot-2023-09-17-at-13.56.48.png" height="274" width="274" alt="Gebetsseelsorge"  sizes="100vw" srcset="https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-xs.png 300w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-sm.png 480w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-md.png 768w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-lg.png 1024w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-xl.png 1360w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/Screenshot-2023-09-17-at-13.56.48-2xl.png 1600w">
       <figcaption>Gebetsseelsorge</figcaption>
     </figure>
 
@@ -128,7 +128,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zisuu.github.io/beratung/media/posts/5/profile_foto.jpg" height="168" width="141" alt=""  sizes="100vw" srcset="https://zisuu.github.io/beratung/media/posts/5/responsive/profile_foto-xs.jpg 300w ,https://zisuu.github.io/beratung/media/posts/5/responsive/profile_foto-sm.jpg 480w ,https://zisuu.github.io/beratung/media/posts/5/responsive/profile_foto-md.jpg 768w ,https://zisuu.github.io/beratung/media/posts/5/responsive/profile_foto-lg.jpg 1024w ,https://zisuu.github.io/beratung/media/posts/5/responsive/profile_foto-xl.jpg 1360w ,https://zisuu.github.io/beratung/media/posts/5/responsive/profile_foto-2xl.jpg 1600w">
+      <img loading="lazy" src="https://www.seelsorge-beratung.ch/media/posts/5/profile_foto.jpg" height="168" width="141" alt=""  sizes="100vw" srcset="https://www.seelsorge-beratung.ch/media/posts/5/responsive/profile_foto-xs.jpg 300w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/profile_foto-sm.jpg 480w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/profile_foto-md.jpg 768w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/profile_foto-lg.jpg 1024w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/profile_foto-xl.jpg 1360w ,https://www.seelsorge-beratung.ch/media/posts/5/responsive/profile_foto-2xl.jpg 1600w">
       
     </figure>
 
